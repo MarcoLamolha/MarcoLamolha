@@ -1,16 +1,38 @@
-### Hi there 👋
+### 🍀 print('Hello World!')
 
-<!--
-**MarcoLamolha/MarcoLamolha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Evolving everyday to achieve my first job as a Junior Data Analyst
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dedicate my career to Data Analysis & Customer Centricity.
+
+--
+
+Graduated in Business Administration - Universidade de São Paulo. 
+
+-- 
+
+TOOLBOX:
+- SQL
+- SAS
+- GIT
+- Excel
+- Scrum
+- Python
+- Power BI
+- Green Belt LSS
+- Google Data Studio
+
+--
+
+LANGUAGES:
+- Portuguese (Native)
+- English (Advanced)
+- Spanish (Basic)
+
+--
+
+HOBBIES:
+- Soccer
+- Dogs
+- Call of Duty Mobile
