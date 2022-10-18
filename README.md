@@ -3,11 +3,11 @@
 
 --
 
-Evolving everyday focused in achieving a Junior Data Analyst job position  #OpenToWork
+Evolving everyday focused on achieving a Junior Data Analyst job position  #OpenToWork
 
 --
 
-Graduated in Business Administration - Universidade de São Paulo. 
+Graduated in Business Administration from Universidade de São Paulo. 
 
 -- 
 
