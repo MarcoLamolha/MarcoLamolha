@@ -1,10 +1,9 @@
-### 🍀 print('Hello World!')
-
-Evolving everyday to achieve my first job as a Junior Data Analyst
+## 🍀 print('Hello World!')
+> Dedicate my career to Data Analysis & Customer Centricity.
 
 --
 
-Dedicate my career to Data Analysis & Customer Centricity.
+Evolving everyday focused in achieving a Junior Data Analyst job position  #OpenToWork
 
 --
 
