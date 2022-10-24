@@ -1,11 +1,10 @@
 ## 🍀 print('Hello World!')
-> Evolving everyday focused on achieving a Junior Data Analyst job position
-
+>
 --
 
 #OpenToWork
 
-Recruiters, feel free to navegate through my repositories in witch I demonstrate what i can do with the tools I've learned
+Evolving everyday focused on achieving a Junior Data Analyst job position
 
 --
 
