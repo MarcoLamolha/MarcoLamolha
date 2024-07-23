@@ -2,12 +2,6 @@
 >
 --
 
-#OpenToWork
-
-Evolving everyday focused on achieving a Junior Data Analyst job position
-
---
-
 Graduated in Business Administration from Universidade de São Paulo. 
 
 -- 
@@ -21,18 +15,12 @@ TOOLBOX:
 - Python
 - Power BI
 - Green Belt LSS
-- Google Data Studio
+- Google Looker
 
 --
 
 LANGUAGES:
 - Portuguese (Native)
-- English (Advanced)
-- Spanish (Basic)
-
---
-
-HOBBIES:
-- Soccer
-- Dogs
-- Call of Duty Mobile
+- English (Fluent)
+- Spanish (Intermediate)
+- Italian (Basic)
